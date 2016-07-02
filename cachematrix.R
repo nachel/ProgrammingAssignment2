@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## Funtion 1
 
  makeCacheMatrix <- function(x = matrix()) {
 +         inv <- NULL
@@ -19,7 +19,7 @@
 + }
 
 
-## Write a short comment describing this function
+## Function 2
 
 cacheSolve <- function(x, ...) {
 +         inv <- x$d()
